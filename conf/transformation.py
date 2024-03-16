@@ -1,1 +1,1 @@
-#narrow and wide transformations
+#narrow and wide transformations are taiught in lectures
